@@ -2,7 +2,7 @@
 - 👀 I’m interested in Auto Installers and Mods
 - 🌱 I’m currently learning python and .cmd
 - 💞️ I’m looking to collaborate on nothing right now
-- 📫 How to reach me discord:  Angel_Alpha#5188
+- 📫 How to reach me discord:  Sky Wolf#5188
 
 <!---
 Foxhound-7066/Foxhound-7066 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
