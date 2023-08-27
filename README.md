@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Foxhound-7066
-- 👀 I’m interested in Auto Installers and Mods
-- 🌱 I’m currently learning python and .cmd
-- 💞️ I’m looking to collaborate on nothing right now
-- 📫 How to reach me discord:  Sky Wolf#5188
+Not much interesting.
+Im a stoner who loves gaming and is trying to get into modding, any help would massively  appreciated. 
+
+If its a game? Ill find a way to break it 🤣
 
 <!---
 Foxhound-7066/Foxhound-7066 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
